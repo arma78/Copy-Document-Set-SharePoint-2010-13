@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b0c8b4ea-0c32-46fa-9eb2-36af92ee85d9" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="PHO_Copy_Document_Set.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\PHO_Copy_Document_Set\Export Document Set.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="PHO_Copy_Document_Set_PHO_Copy_Document_Set_Feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

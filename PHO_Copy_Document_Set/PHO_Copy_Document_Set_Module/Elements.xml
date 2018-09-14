@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  
+    <CustomAction Id="{72B25C7D-16F4-4FC5-B97C-B41B323B4661}"
+                RegistrationType="ContentType"
+                RegistrationId="0x0120D520"
+                Location="EditControlBlock"
+                ImageUrl="/_layouts/IMAGES/DOCLINK.GIF"
+                Sequence="600"
+                Title="Copy Document Set"
+                Description="Copies Document Set From One Library to Another"
+                >
+
+      
+      <UrlAction Url="javascript:OpenPopUpPageWithTitle('{SiteUrl}/_layouts/PHO_Copy_Document_Set/Export Document Set.aspx?ListId={ListId}&amp;ItemId={ItemId}', RefreshOnDialogClose, 600, 400,'Copy Document Set')"/>
+
+
+    </CustomAction>
+  
+</Elements>
+
+

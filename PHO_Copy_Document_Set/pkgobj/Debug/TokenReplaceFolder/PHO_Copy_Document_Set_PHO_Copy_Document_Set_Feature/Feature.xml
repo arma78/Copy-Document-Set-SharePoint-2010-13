@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="PHO_Copy_Document_Set Feature" Description="Copy Document Set from your source library into destination library.&#xD;&#xA;OAHPP 2013" Id="f8d0c1c7-e7e2-4123-bc72-63e80bc9ad62" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="PHO_Copy_Document_Set_Module\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,1 @@
+bin\Debug\PHO_Copy_Document_Set.wsp

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b0c8b4ea-0c32-46fa-9eb2-36af92ee85d9" solutionId="b0c8b4ea-0c32-46fa-9eb2-36af92ee85d9" resetWebServer="false" name="PHO_Copy_Document_Set" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="f8d0c1c7-e7e2-4123-bc72-63e80bc9ad62" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="04963f8a-f0cd-4a79-b258-0e6c7434fb84" />
+  </projectItems>
+</package>

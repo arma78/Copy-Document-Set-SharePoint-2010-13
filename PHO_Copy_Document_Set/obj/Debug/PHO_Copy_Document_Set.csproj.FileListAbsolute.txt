@@ -1,0 +1,6 @@
+c:\users\armin.razic\documents\visual studio 2010\Projects\PHO_Copy_Document_Set\PHO_Copy_Document_Set\bin\Debug\PHO_Copy_Document_Set.dll
+c:\users\armin.razic\documents\visual studio 2010\Projects\PHO_Copy_Document_Set\PHO_Copy_Document_Set\bin\Debug\PHO_Copy_Document_Set.pdb
+c:\users\armin.razic\documents\visual studio 2010\Projects\PHO_Copy_Document_Set\PHO_Copy_Document_Set\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+c:\users\armin.razic\documents\visual studio 2010\Projects\PHO_Copy_Document_Set\PHO_Copy_Document_Set\obj\Debug\ResolveAssemblyReference.cache
+c:\users\armin.razic\documents\visual studio 2010\Projects\PHO_Copy_Document_Set\PHO_Copy_Document_Set\obj\Debug\PHO_Copy_Document_Set.dll
+c:\users\armin.razic\documents\visual studio 2010\Projects\PHO_Copy_Document_Set\PHO_Copy_Document_Set\obj\Debug\PHO_Copy_Document_Set.pdb
